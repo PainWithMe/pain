@@ -19,12 +19,4 @@ Thou shalt [use this repo as a set up](https://github.com/tgrx/tms-template/gene
 1. Git [[link]](https://git-scm.com/)
     - Windows users can try choco
 1. Python 3.8+ [[link]](https://www.python.org/downloads/)
-1. Pipenv [[link]](https://pipenv.pypa.io/en/latest/install/#installing-pipenv)
-    - Windows users should try choco / [pipx](https://pipxproject.github.io/pipx/)
-    - Mac OS users should use brew
-    - Linux users should try pipx
-
-### Optional requirements
-
-1. Google Chrome [[link]](https://www.google.com/chrome/)
-1. ChromeDriver for Selenium [[link]](https://chromedriver.chromium.org/)
+1. Pipenv [[link]](https://pipenv.pypa.io/en/latest/install/#installing-pipenv
